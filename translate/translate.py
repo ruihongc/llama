@@ -36,6 +36,8 @@ APPLY = (lambda w:
         w
         if w == x
         else z(
+          y
+        )(
           w
         )
       )
