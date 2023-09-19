@@ -15,6 +15,4 @@ Available functions:
  - LOAD, LOADSAFE: load combinator functions of translation dictionary into current namespace
  - HELPER: function to feed as input parameter in combinators to help with debugging
  - REDUCE: beta reduction on the output of TRANSLATE
-
- ALL_, BIRDNAMES_, BIRDS_, BOOL_, EXTRABIRDS_, LIST_, MATH_, PAIR_: translation dictionaries to feed into functions
- 
+ - ALL_, BIRDNAMES_, BIRDS_, BOOL_, EXTRABIRDS_, LIST_, MATH_, PAIR_: translation dictionaries to feed into functions 
